@@ -1,16 +1,20 @@
-### Hi there 👋
+#### ✨ About Me
+```
+Hi, I'm Dokyeong Kwon👋. I'm master's degree in Computer Vision and Machine Learning Lab of Chung-Ang University.
+I'm working on Low Level vision (GAN, Low-light Image Enhancement, RAW to RGB, Super-Resolution)
+``` 
+#### 🛠 Technical Stack
+`Python` `Java` `C` `C++` `Linux` `Window GitHub` `Ruby` `Socket.IO` `HTML` `CSS` `PHP` 
 
-<!--
-**dokyeongK/dokyeongK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`MySQL` `Arduino` `OpenCV` `Android` `Flask` `Keras` `Tensorflow` `Pytorch`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👀 **Curriculum Vitae** : https://www.notion.so/ddoddo/DokyeongKwon-798e330964c54ac1a62a60e39a417693
+
+#### 💎 **BLOG** : [dkdk6638 (Dokyeong Kwon) - velog](https://velog.io/@dkdk6638)
+
+#### 📞  **Phone** : +82) 010-6638-6434
+
+#### ✉️  **Email** : [dkdk6638@gmail.com](mailto:dkdk6638@gmail.com) / [dkdk6638@naver.com](mailto:dkdk6638@naver.com)
+
